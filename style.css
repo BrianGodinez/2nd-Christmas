@@ -1,0 +1,33 @@
+body {
+  background-color: red;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 20px 0;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+p {
+  font-size: 1.5em;
+  margin: 20px 0;
+}
+
+p:first-of-type {
+  font-style: italic;
+}
+
+img {
+  width: 200px;
+  border: 10px solid white;
+  border-radius: 50%;
+}
+
+.christmas-tree {
+  width: 300px;
+  display: block;
+  margin: 20px auto;
+}
